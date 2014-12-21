@@ -7,7 +7,9 @@ In our tidy data set we have the following variables:
 [1] "Subject": There were 30 persons who took part in 
 the experiments. So, this variable has values 1 from 30.                             
 
-[2] "Activity":  
+[2] "Activity": There were six activities:
+1 means WALKING, 2 means WALKING_UPSTAIRS,3 means WALKING_DOWNSTAIRS, 4means SITTING, 5 means STANDING, and 6 means LAYING.
+
 
  [3] "MeanOf_BodyAcc_mean_Y"                  
  [4] "MeanOf_BodyAcc_mean_Z"                  
