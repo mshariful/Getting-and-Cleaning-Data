@@ -4,7 +4,7 @@ author: "Sharif"
 ---
 
 Getting and Cleaning Data
-Sharif
+
 
 This work is the project part of Getting and Cleaning Data course offered by Coursera.
 
