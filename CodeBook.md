@@ -10,6 +10,7 @@ the experiments. So, this variable has values 1 from 30.
 [2] "Activity": There were six activities:
 1 means WALKING, 2 means WALKING_UPSTAIRS,3 means WALKING_DOWNSTAIRS, 4 means SITTING, 5 means STANDING, and 6 means LAYING.
 
+All the rest of the followng variabes are simply the mean of various mean and std (i.e. standard deviation) related variables in the original data set. We have calculated these variables for each person and each activity.
 
  [3] "MeanOf_BodyAcc_mean_Y"                  
  [4] "MeanOf_BodyAcc_mean_Z"                  
